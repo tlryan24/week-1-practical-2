@@ -4,7 +4,8 @@ function setup() {
 
 function draw() {
     background(150);
-    fill(0);
-    ellipse(100, 50, 80, 20);
-    rect(100, 125, 100, 50);
+    fill(255);
+    ellipse(100,50,80,20);
+    fill(0)
+    rect(50, 110, 100, 50);
 }
